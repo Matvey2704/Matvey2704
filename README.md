@@ -16,10 +16,6 @@
   <a href="mailto:yuminmatvei@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matvey2704&label=Просмотры+профиля&color=00c27a&style=flat" alt="Просмотры профиля">
-</p>
-
 
 ##  Обо мне
 
